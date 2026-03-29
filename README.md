@@ -1,5 +1,5 @@
 # 👋 Hey! 
-Me chamo Ariadne Quirino, sou graduada em Comunicação Social - Produção Editorial e atualmente estou estudando para migrar de carreira para a área de programação. ^^
+Me chamo Ariadne Rodrigues, sou graduada em Comunicação Social - Produção Editorial e atualmente estou estudando para migrar para a área de tecnologia. ^^
 ***
 ## 📖 Hard Skills
 - Graduação em *Comunicação Social - Produção Editorial* pela UFSM;
